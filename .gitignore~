@@ -3,4 +3,3 @@
 .settings/com.powerflasher.fdt.core.prefs
 .settings/org.eclipse.core.resources.prefs
 ._.gitignore
-deploy/*.swf
