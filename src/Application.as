@@ -28,7 +28,7 @@ package
 			stage.align = StageAlign.TOP_LEFT;
 
 			this.addChild(rateView);	
-			this.addChild(Asset.create("ImageOne"));
+			//this.addChild(Asset.create("ImageOne"));
 		}
 	}
 }
