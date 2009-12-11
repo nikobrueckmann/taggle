@@ -1,0 +1,41 @@
+class tagBox				bestehend aus weisser fläche die man einbleidet bei transition und tagbox mit alpha-wert der relevanz
+class tagText				tagbezeichnung
+class tagSprite				bestehend aus tagBox und tagSprite
+class tagListNew			bestend aus allen tagSprites
+
+
+class tagBox
+class tagText
+class tagSprite
+class tagListCurrent  
+
+class tagBoxStatic
+class tagTextStatic
+class tagSpriteStatic
+class tagListCurrentStatic 
+  
+  
+
+
+class init  				gradient und mittelLinie
+class rateView				der aktuelle View
+
+
+  
+  
+
+
+class viewConfiguration		farben definieren usw.
+class Application			grundlegende sachen und views ändern
+ 							z.b. currentView.transiteOut dann currentView wechseln und dann currentView.transiteIn
+class assets				schriften, grafische elemente
+class singleton				arrays?
+
+
+
+tweenings als funktionen in z.b tagSprite reinschreiben und dann von aussen ansprechen.
+lange funktionen aufteilen in viele kleine funktionen die einfach variablen übergeben.
+überlegen wie man statische Tags besser unterscheiden kann von den kleinen relativen.
+
+ER-Modell erschaffen und bei den models viel mehr daten übergeben (erstmal dann als null);
+artist mr oizo ist im prinzip künstler
