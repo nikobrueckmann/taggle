@@ -1,3 +1,5 @@
+.DS_Store
+*/.DS_Store
 .as3_classpath
 .project
 .settings/com.powerflasher.fdt.core.prefs
